@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  background-color: antiquewhite;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+table {
+  background-color: white;
+  text-align: center;
+}
+
+table,
+tr,
+td,
+th {
+  height: 50px;
+  width: 70%;
+  border-collapse: collapse;
+}
+
+thead tr {
+  background-color: #862dda;
+  color: white;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #d3bbe9;
+}
+
+tbody tr:nth-child(even) a {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
