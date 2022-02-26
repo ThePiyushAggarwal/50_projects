@@ -11,4 +11,8 @@ Live links -
 
 004 https://thepiyushaggarwal.github.io/50_projects/004HiddenSearchWidget/
 
-005 https://thepiyushaggarwal.github.io/50_projects/004BlurryLoading/
+005 https://thepiyushaggarwal.github.io/50_projects/005BlurryLoading/
+
+006 https://thepiyushaggarwal.github.io/50_projects/006ScrollAnimation/
+
+007 https://thepiyushaggarwal.github.io/50_projects/007SplitLandingPage/
