@@ -10,3 +10,5 @@ Live links -
 003 https://thepiyushaggarwal.github.io/50_projects/003RotatingNavigation/
 
 004 https://thepiyushaggarwal.github.io/50_projects/004HiddenSearchWidget/
+
+005 https://thepiyushaggarwal.github.io/50_projects/004BlurryLoading/
