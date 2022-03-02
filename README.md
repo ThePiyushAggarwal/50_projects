@@ -16,3 +16,9 @@ Live links -
 006 https://thepiyushaggarwal.github.io/50_projects/006ScrollAnimation/
 
 007 https://thepiyushaggarwal.github.io/50_projects/007SplitLandingPage/
+
+008 https://thepiyushaggarwal.github.io/50_projects/008FormInputWave/
+
+009 https://thepiyushaggarwal.github.io/50_projects/009SoundBoard/
+
+
