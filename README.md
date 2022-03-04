@@ -24,3 +24,5 @@ Live links -
 010 https://thepiyushaggarwal.github.io/50_projects/010DadJokes/
 
 011 https://thepiyushaggarwal.github.io/50_projects/011EventKeyCodes/
+
+011 https://thepiyushaggarwal.github.io/50_projects/012FAQ/
