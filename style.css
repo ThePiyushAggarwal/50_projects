@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: rgb(220, 255, 253);
+  background-color: rgba(187, 187, 187, 0.479);
   margin: 0;
   margin-bottom: 100px;
   font-family: 'Mulish', sans-serif;
@@ -53,4 +53,10 @@ tbody tr:nth-child(even) a {
 
 a {
   text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-color: black;
+  }
 }
