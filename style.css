@@ -56,7 +56,13 @@ a {
 }
 
 @media (max-width: 768px) {
-  body {
-    background-color: black;
+  table,
+  tr,
+  td,
+  th {
+    height: 50px;
+    width: 70%;
+    border-collapse: collapse;
+    border-radius: 20px;
   }
 }
