@@ -15,15 +15,10 @@ body {
   margin: 0;
 }
 
-.container {
+/* .container {
   display: flex;
   width: 90vw;
 }
-
-/* .back {
-  background-repeat: repeat;
-  filter: blur(1px);
-} */
 
 .panel {
   background-size: cover;
@@ -66,7 +61,7 @@ body {
   .panel:nth-of-type(5) {
     display: none;
   }
-}
+} */
 
 .img1 {
   background-image: url('https://cdn.pixabay.com/photo/2021/08/04/11/58/kids-6521604_960_720.jpg');
