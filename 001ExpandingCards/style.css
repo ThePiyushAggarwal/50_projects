@@ -15,15 +15,14 @@ body {
   margin: 0;
 }
 
-/* .container {
+.container {
   display: flex;
   width: 90vw;
 }
 
 .panel {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-position: center; /* it centers the image */
+  background-repeat: no-repeat; /* good for when bigger screens involved */
   height: 80vh;
   border-radius: 50px;
   color: aliceblue;
@@ -61,7 +60,9 @@ body {
   .panel:nth-of-type(5) {
     display: none;
   }
-} */
+}
+
+/* Image URLs */
 
 .img1 {
   background-image: url('https://cdn.pixabay.com/photo/2021/08/04/11/58/kids-6521604_960_720.jpg');
